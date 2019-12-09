@@ -15,32 +15,65 @@ def calculate_q(u, t):
     q = (18*math.pi)/(2*rou*g)**0.5 * (yita_ * vg )**1.5 *d/u
     return q
 
+# tuples = [
+#     (74, 6.14),
+#     (60, 11.89),
+#     (81, 9.10),
+#     (55,13.20),
+#     (51,8.17),
+#     (96,9.78),
+#     (83, 6.27),
+#     (104, 10.92)
+# ]
+
+
+# tuples = [
+#     (205,27.92),
+#     (235,11.82),
+#     (216,6.00),
+#     (160,8.13),
+#     (189,9.90),
+#     (183,16.72),
+#     (189,9.67),
+#     (211,8.64),
+#     (164,10.48),
+#     (164,10.52),
+#     (268,5.47)
+# ]
+
 tuples = [
-    (74, 6.14),
-    (60, 11.89),
-    (81, 9.10),
-    (55,13.20),
-    (51,8.17),
-    (96,9.78),
-    (83, 6.27),
-    (104, 10.92)
+    (315,5.99),
+    (185,20.41),
+    (172,16.92),
+    (154,9.57),
+    (644,6.70),
+    (211,8.55),
+    (331,13.93),
+    (293,15.63),
+    (203,6.2),
+    (197,15.88),
 ]
 
 e = 1.602e-19
-# for u,t in tuples:
-#     q = calculate_q(u,t)
-#     print(q, q/e, round(q/e), (q/e)/(round(q/e)))
 
-lists = [1.01,1,0.98,1.03,1.01,0.99,1,0.99]
+lists = []
+print("电荷    电荷量     计算电荷量     图线斜率")
+for u,t in tuples:
+    q = calculate_q(u,t)
+
+    print(q, q/e, round(q/e), (q/e)/(round(q/e)))
+    lists.append((q/e)/(round(q/e)))
+
 def MSE(lists):
     average = sum(lists) / len(lists)
     print(average)
     list_ = [k-average for k in lists]
     print(list_)
 
-    print('残差')
-    print(sum(list_))
-    print(len(lists))
+    # print('残差')
+    # print(sum(list_))
+    # print(len(lists))
+    print("残差平均值")
     print(sum(list_) / len(lists))
 
     print('相对误差')
@@ -57,3 +90,4 @@ def MSE(lists):
 
 
 MSE(lists)
+
