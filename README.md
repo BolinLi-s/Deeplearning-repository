@@ -25,8 +25,10 @@ conda config --set show_channel_urls yes
 
 
 
-## pip清华镜像源
+## pip镜像源
 
 pip install -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+pip install -i https://pypi.doubanio.com/simple/
 
 
