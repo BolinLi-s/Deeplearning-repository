@@ -92,11 +92,11 @@ Iain H. McLean 在实验心理学领域内，使用过三关的方法整合了�
 
 ## 6. 参考文献
 
-[1] I.H. McLean, “Literature Review Matrix,” psychologyinc.blogspot.com
-[2] S. Peyton Jones, “Research Skills,” Simon Peyton Jones at Microsoft Research
-[3] T. Roscoe, “Writing Reviews for Systems Conferences,” people.inf.ethz.ch/tros
-链接：http://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf
-[4] H. Schulzrinne, “Writing Technical Articles,” Writing Systems and Networking Articles
-链接:http://www.cs.columbia.edu/~hgs/etc/writing-style.html
-[5] G.M. Whitesides, “Whitesides’ Group: Writing a Paper,” ee.ucr.edu/~rlake/White
-链接:https://intra.ece.ucr.edu/~rlake/Whitesides_writing_res_paper.pdf
+[1] I.H. McLean, “Literature Review Matrix,” psychologyinc.blogspot.com  
+[2] S. Peyton Jones, “Research Skills,” Simon Peyton Jones at Microsoft Research  
+[3] T. Roscoe, “Writing Reviews for Systems Conferences,” people.inf.ethz.ch/tros  
+链接：http://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf  
+[4] H. Schulzrinne, “Writing Technical Articles,” Writing Systems and Networking Articles  
+链接:http://www.cs.columbia.edu/~hgs/etc/writing-style.html  
+[5] G.M. Whitesides, “Whitesides’ Group: Writing a Paper,” ee.ucr.edu/~rlake/White  
+链接:https://intra.ece.ucr.edu/~rlake/Whitesides_writing_res_paper.pdf  
