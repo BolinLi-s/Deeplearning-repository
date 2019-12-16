@@ -2,7 +2,10 @@
 
 # Blogs  
 
-小样本学习（Few-shot Learning）综述https://zhuanlan.zhihu.com/p/61215293
+小样本学习（Few-shot Learning）综述https://zhuanlan.zhihu.com/p/61215293  
+
+英伟达FUNIT介绍https://zhuanlan.zhihu.com/p/65296610
+
 
 # SOTA  
 ## LaSO: Label-Set Operations networks for multi-label few-shot learning (classification, multi-label)  
