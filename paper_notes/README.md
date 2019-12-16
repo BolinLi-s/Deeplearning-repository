@@ -1,13 +1,12 @@
-Prof. S. Keshav, 滑铁卢大学 David R. Cheriton 计算机学院，加拿大
+# How to read a paper??  
 
+Prof. S. Keshav, 滑铁卢大学 David R. Cheriton 计算机学院，加拿大
 keshav@uwaterloo.ca
 
 2016.2.27 版
 
 原文链接:
 http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf
-
-# How to read a paper??
 
 
 ## 摘要
