@@ -13,7 +13,7 @@ ICLR 9月截稿，4月开会
 MICCAI 4月截稿，10月开会  
 MM 4月截稿，10月开会  
 
-论文速查（防止装车）https://zhuanlan.zhihu.com/p/83621630  
+论文速查（防止撞车）https://zhuanlan.zhihu.com/p/83621630  
  
 ## 快速访问：
 
