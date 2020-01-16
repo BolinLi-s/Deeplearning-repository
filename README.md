@@ -23,22 +23,22 @@ sublime转化为高效c/cpp编译器 https://xuanwo.io/2014/06/05/sublime-text-3
 ## 论文链接：
 
 ### 图像转译直接相关
-Style Transfer 
-cyclegan  https://arxiv.org/abs/1703.10593
-pix2pixgan https://arxiv.org/abs/1611.07004 https://arxiv.org/abs/1711.11585(HD)
-Stylegan https://arxiv.org/abs/1812.04948
-Biggan https://arxiv.org/abs/1809.11096
-DiscoGAN https://arxiv.org/abs/1703.05192
-DRAGAN https://arxiv.org/abs/1705.07215
-DualGAN https://arxiv.org/abs/1704.02510
+Style Transfer   
+cyclegan  https://arxiv.org/abs/1703.10593  
+pix2pixgan https://arxiv.org/abs/1611.07004 https://arxiv.org/abs/1711.11585(HD)  
+Stylegan https://arxiv.org/abs/1812.04948  
+Biggan https://arxiv.org/abs/1809.11096  
+DiscoGAN https://arxiv.org/abs/1703.05192  
+DRAGAN https://arxiv.org/abs/1705.07215  
+DualGAN https://arxiv.org/abs/1704.02510    
 
-UNIT
+UNIT  
 ### GAN基础
-GAN https://arxiv.org/abs/1406.2661
-Conditional GAN  https://arxiv.org/abs/1411.1784
-Deep Convolutional GAN https://arxiv.org/abs/1511.06434
+GAN https://arxiv.org/abs/1406.2661  
+Conditional GAN  https://arxiv.org/abs/1411.1784  
+Deep Convolutional GAN https://arxiv.org/abs/1511.06434  
 
 wgan
-
+   
 ### 工程性文章
-Improved Techniques for Training GANs http://papers.nips.cc/paper/6124-improved-techniques-for-training-gans
+Improved Techniques for Training GANs http://papers.nips.cc/paper/6124-improved-techniques-for-training-gans  
