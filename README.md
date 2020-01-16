@@ -23,7 +23,7 @@ sublime转化为高效c/cpp编译器 https://xuanwo.io/2014/06/05/sublime-text-3
 ## 论文链接：
 
 ### 图像转译直接相关
-Style Transfer   
+Style Transfer   http://openaccess.thecvf.com/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf  
 cyclegan  https://arxiv.org/abs/1703.10593  
 pix2pixgan https://arxiv.org/abs/1611.07004 https://arxiv.org/abs/1711.11585 (HD)  
 Stylegan https://arxiv.org/abs/1812.04948  
