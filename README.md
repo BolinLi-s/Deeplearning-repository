@@ -25,7 +25,7 @@ sublime转化为高效c/cpp编译器 https://xuanwo.io/2014/06/05/sublime-text-3
 ### 图像转译直接相关
 Style Transfer   
 cyclegan  https://arxiv.org/abs/1703.10593  
-pix2pixgan https://arxiv.org/abs/1611.07004 https://arxiv.org/abs/1711.11585(HD)  
+pix2pixgan https://arxiv.org/abs/1611.07004 https://arxiv.org/abs/1711.11585 (HD)  
 Stylegan https://arxiv.org/abs/1812.04948  
 Biggan https://arxiv.org/abs/1809.11096  
 DiscoGAN https://arxiv.org/abs/1703.05192  
