@@ -3,16 +3,20 @@
 | 论文名称|论文地址|项目地址|
 |-----|-----|-----|
 |Style Transfer |https://ieeexplore.ieee.org/document/7780634 ||
-|cyclegan | https://arxiv.org/abs/1703.10593  ||
-|pix2pixgan |https://arxiv.org/abs/1611.07004 https://arxiv.org/abs/1711.11585 (HD)  ||
-|Stylegan |https://arxiv.org/abs/1812.04948  ||
-|Biggan |https://arxiv.org/abs/1809.11096  ||
+|cyclegan | https://arxiv.org/abs/1703.10593  |https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix|
+|pix2pixgan |https://arxiv.org/abs/1611.07004 |同上|
+|pix2pixHD|https://arxiv.org/abs/1711.11585|https://github.com/NVIDIA/pix2pixHD|
+
 |DiscoGAN |https://arxiv.org/abs/1703.05192  ||
 |DRAGAN |https://arxiv.org/abs/1705.07215  ||
-|DualGAN |https://arxiv.org/abs/1704.02510   | |
 |UNIT  |https://arxiv.org/abs/1703.00848  ||
+|DualGAN |https://arxiv.org/abs/1704.02510   | |
+|StarGAN|https://arxiv.org/abs/1711.09020|https://github.com/yunjey/stargan|
+|Stylegan |https://arxiv.org/abs/1812.04948  ||
+|Biggan |https://arxiv.org/abs/1809.11096  ||
 |MUNIT |https://arxiv.org/abs/1804.04732 ||
 |FUNIT|  https://arxiv.org/abs/1905.01723  ||
+
 ### GAN基础
 |论文名称|论文地址|项目地址|
 |-----|-----|-----|
