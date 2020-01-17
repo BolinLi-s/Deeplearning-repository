@@ -1,6 +1,7 @@
 ### 图像转译直接相关
 
 | 论文名称|论文地址|项目地址|
+|-----|-----|-----|
 |Style Transfer |  http://openaccess.thecvf.com/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf  ||
 |cyclegan | https://arxiv.org/abs/1703.10593  |
 |pix2pixgan |https://arxiv.org/abs/1611.07004 https://arxiv.org/abs/1711.11585 (HD)  |
@@ -14,6 +15,8 @@
 |MUNIT |https://arxiv.org/abs/1804.04732 |
 |FUNIT|  https://arxiv.org/abs/1905.01723|
 ### GAN基础
+| 论文名称|论文地址|项目地址|
+|-----|-----|-----|
 |GAN |https://arxiv.org/abs/1406.2661 |  
 |Conditional GAN  |https://arxiv.org/abs/1411.1784|  
 |Deep Convolutional GAN |https://arxiv.org/abs/1511.06434|  
@@ -21,4 +24,6 @@
 |wgan |https://arxiv.org/abs/1701.07875  |
 |wgan DIV| https://arxiv.org/abs/1712.01026   |
 ### 工程性文章
+| 论文名称|论文地址|项目地址|
+|-----|-----|-----|
 |Improved Techniques for Training GANs| http://papers.nips.cc/paper/6124-improved-techniques-for-training-gans |
