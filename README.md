@@ -24,4 +24,5 @@ sublime转化为高效c/cpp编译器 https://xuanwo.io/2014/06/05/sublime-text-3
 ## 稍后再读
 
 Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks https://dl.acm.org/doi/pdf/10.5555/3305381.3305498?download=true  
-Meta Networks https://arxiv.org/pdf/1703.00837.pdf
+Meta Networks https://arxiv.org/pdf/1703.00837.pdf  
+On First-Order Meta-Learning Algorithms https://arxiv.org/pdf/1803.02999.pdf
