@@ -2,4 +2,5 @@
 
 线性代数：
 
-矩阵求导术：https://zhuanlan.zhihu.com/p/24709748    https://zhuanlan.zhihu.com/p/24863977
+矩阵求导术：https://zhuanlan.zhihu.com/p/24709748   
+          https://zhuanlan.zhihu.com/p/24863977
