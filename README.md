@@ -19,3 +19,8 @@ MM 4月截稿，10月开会
 
 markdown教程 http://xianbai.me/learn-md/index.html  
 sublime转化为高效c/cpp编译器 https://xuanwo.io/2014/06/05/sublime-text-3-ide/
+
+
+## 稍后再读
+
+Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks  https://dl.acm.org/doi/pdf/10.5555/3305381.3305498?download=true
