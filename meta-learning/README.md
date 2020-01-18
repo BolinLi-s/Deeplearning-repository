@@ -14,7 +14,7 @@
 |Stylegan |https://arxiv.org/abs/1812.04948  |https://github.com/NVlabs/stylegan||
 |Biggan |https://arxiv.org/abs/1809.11096  ||
 |MUNIT |https://arxiv.org/abs/1804.04732 ||
-|FUNIT|  https://arxiv.org/abs/1905.01723  ||
+|FUNIT|  https://arxiv.org/abs/1905.01723  |https://github.com/NVlabs/FUNIT|
 |RelGAN|https://arxiv.org/pdf/1908.07269.pdf||
 
 ### GAN基础
