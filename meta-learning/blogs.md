@@ -4,7 +4,7 @@
 
 小样本学习（Few-shot Learning）综述https://zhuanlan.zhihu.com/p/61215293  
 
-英伟达FUNIT介绍https://zhuanlan.zhihu.com/p/65296610
+Meta Learning/Learning to Learn, 到底我们要学会学习什么？ https://zhuanlan.zhihu.com/p/32270990  
 
 
 # SOTA  
