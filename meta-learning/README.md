@@ -1,5 +1,9 @@
-### 图像转译
-
+### Meta Learning 
+|论文名称|论文地址|项目地址|
+|-----|-----|-----|
+|MAML|https://dl.acm.org/doi/pdf/10.5555/3305381.3305498?download=true||
+|Meta Networks|https://arxiv.org/pdf/1703.00837.pdf||
+### Image2Image Translation
 | 论文名称|论文地址|项目地址|
 |-----|-----|-----|
 |Style Transfer |https://ieeexplore.ieee.org/document/7780634 ||
@@ -17,7 +21,7 @@
 |FUNIT|  https://arxiv.org/abs/1905.01723  |https://github.com/NVlabs/FUNIT|
 |RelGAN|https://arxiv.org/pdf/1908.07269.pdf||
 
-### GAN基础
+### Basic GAN structure
 |论文名称|论文地址|项目地址|
 |-----|-----|-----|
 |GAN |https://arxiv.org/abs/1406.2661 ||
@@ -27,7 +31,7 @@
 |SRGAN|https://arxiv.org/abs/1609.04802|https://github.com/leftthomas/SRGAN|
 |wgan|https://arxiv.org/abs/1701.07875||
 |wgan DIV| https://arxiv.org/abs/1712.01026||
-### 工程性文章
-| 论文名称|论文地址|
-|-----|-----|
-|Improved Techniques for Training GANs| http://papers.nips.cc/paper/6124-improved-techniques-for-training-gans |
+### Engineering Article
+| 论文名称|论文地址|项目地址|
+|-----|-----|-----|
+|Improved Techniques for Training GANs| http://papers.nips.cc/paper/6124-improved-techniques-for-training-gans ||
