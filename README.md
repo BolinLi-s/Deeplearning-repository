@@ -27,3 +27,4 @@ AGA : Attribute-Guided Augmentation https://arxiv.org/pdf/1612.02559.pdf
 Low-Shot Learning from Imaginary Data https://arxiv.org/pdf/1801.05401.pdf   
 Scribbler: Controlling Deep Image Synthesis with Sketch and Color https://arxiv.org/abs/1612.00835  
 Smart, Sparse Contours to Represent and Edit Images https://arxiv.org/abs/1712.08232  
+ 
