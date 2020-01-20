@@ -30,3 +30,8 @@ Smart, Sparse Contours to Represent and Edit Images https://arxiv.org/abs/1712.0
  
 Im2Pencil https://arxiv.org/pdf/1903.08682.pdf  
 Instance Normalization:The Missing Ingredient for Fast Stylization https://arxiv.org/pdf/1607.08022.pdf  
+
+## I reflect myself three times a day
+
+MAML和Meta Network到底是啥结构？
+啥是spectrum Normalization和AdaIn
