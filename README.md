@@ -25,3 +25,4 @@ Matching Networks for One Shot Learning https://arxiv.org/pdf/1606.04080.pdf
 AGA : Attribute-Guided Augmentation https://arxiv.org/pdf/1612.02559.pdf    
                                      https://arxiv.org/pdf/1606.02819.pdf   
 Low-Shot Learning from Imaginary Data https://arxiv.org/pdf/1801.05401.pdf   
+Scribbler: Controlling Deep Image Synthesis with Sketch and Color https://arxiv.org/abs/1612.00835  
