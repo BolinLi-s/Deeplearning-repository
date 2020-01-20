@@ -23,11 +23,11 @@ sublime转化为高效c/cpp编译器 https://xuanwo.io/2014/06/05/sublime-text-3
 ## Read Later
 
 Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks https://dl.acm.org/doi/pdf/10.5555/3305381.3305498?download=true  
-Meta Networks https://arxiv.org/pdf/1703.00837.pdf   
-On First-Order Meta-Learning Algorithms https://arxiv.org/pdf/1803.02999.pdf     
-Prototypical networks for few-shot learning https://arxiv.org/pdf/1703.05175.pdf  
-Relation network for few-shot learning https://arxiv.org/pdf/1711.06025.pdf   
-Matching Networks for One Shot Learning https://arxiv.org/pdf/1606.04080.pdf  
-AGA : Attribute-Guided Augmentation https://arxiv.org/pdf/1612.02559.pdf  
- https://arxiv.org/pdf/1606.02819.pdf
-Low-Shot Learning from Imaginary Data https://arxiv.org/pdf/1801.05401.pdf
+Meta Networks https://arxiv.org/pdf/1703.00837.pdf     
+On First-Order Meta-Learning Algorithms https://arxiv.org/pdf/1803.02999.pdf       
+Prototypical networks for few-shot learning https://arxiv.org/pdf/1703.05175.pdf    
+Relation network for few-shot learning https://arxiv.org/pdf/1711.06025.pdf     
+Matching Networks for One Shot Learning https://arxiv.org/pdf/1606.04080.pdf    
+AGA : Attribute-Guided Augmentation https://arxiv.org/pdf/1612.02559.pdf    
+                                     https://arxiv.org/pdf/1606.02819.pdf   
+Low-Shot Learning from Imaginary Data https://arxiv.org/pdf/1801.05401.pdf   
