@@ -1,6 +1,5 @@
 # welcome to my repository
 
-大部分人类知识是围绕因果关系组织的，而不是概率关系
 
 ## Deadline 
 
