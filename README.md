@@ -16,7 +16,7 @@ MM 4月截稿，10月开会
 
 ## Read Later
 
-Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks https://dl.acm.org/doi/pdf/10.5555/3305381.3305498?download=true  
+MAML https://dl.acm.org/doi/pdf/10.5555/3305381.3305498?download=true  
 Meta Networks https://arxiv.org/pdf/1703.00837.pdf     
 On First-Order Meta-Learning Algorithms https://arxiv.org/pdf/1803.02999.pdf       
 Prototypical networks for few-shot learning https://arxiv.org/pdf/1703.05175.pdf    
@@ -26,3 +26,4 @@ AGA : Attribute-Guided Augmentation https://arxiv.org/pdf/1612.02559.pdf
                                      https://arxiv.org/pdf/1606.02819.pdf   
 Low-Shot Learning from Imaginary Data https://arxiv.org/pdf/1801.05401.pdf   
 Scribbler: Controlling Deep Image Synthesis with Sketch and Color https://arxiv.org/abs/1612.00835  
+Smart, Sparse Contours to Represent and Edit Images https://arxiv.org/abs/1712.08232  
