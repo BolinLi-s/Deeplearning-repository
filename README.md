@@ -23,7 +23,7 @@ Prototypical networks for few-shot learning https://arxiv.org/pdf/1703.05175.pd
 Relation network for few-shot learning https://arxiv.org/pdf/1711.06025.pdf     
 Matching Networks for One Shot Learning https://arxiv.org/pdf/1606.04080.pdf    
 AGA : Attribute-Guided Augmentation https://arxiv.org/pdf/1612.02559.pdf    
-                                     https://arxiv.org/pdf/1606.02819.pdf   
+Low-shot Visual Recognition by Shrinking and Hallucinating Features https://arxiv.org/pdf/1606.02819.pdf    
 Low-Shot Learning from Imaginary Data https://arxiv.org/pdf/1801.05401.pdf   
 Scribbler: Controlling Deep Image Synthesis with Sketch and Color https://arxiv.org/abs/1612.00835  
 Smart, Sparse Contours to Represent and Edit Images https://arxiv.org/abs/1712.08232  
