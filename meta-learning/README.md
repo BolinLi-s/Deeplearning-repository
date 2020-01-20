@@ -23,6 +23,9 @@
 |RelGAN|https://arxiv.org/pdf/1908.07269.pdf|https://github.com/elvisyjlin/RelGAN-PyTorch|
 
 ### Combination of Meta-Learning and I2I Translation
+| 论文名称|论文地址|项目地址|
+|-----|-----|-----|
+|Lifelong GAN|https://arxiv.org/abs/1907.10107v2|https://github.com/ChillingDream/Lifelong-Gan|
 
 
 ### Basic GAN structure
