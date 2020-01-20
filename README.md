@@ -1,8 +1,8 @@
-# 欢迎来到我的个人仓库
+# welcome to my repository
 
-### 在这里你可以找到：DL模型源码、论文地址和阅读笔记、常用数据集索引、常用的数据集处理工具，后续也会不断补充积累
+大部分人类知识是围绕因果关系组织的，而不是概率关系
 
-## 论文截稿日期  
+## Deadline 
 
 AAAI 9月截稿，2月开会  
 CVPR 11月截稿，6月开会  
@@ -15,13 +15,13 @@ MM 4月截稿，10月开会
 
 论文速查（防止撞车）https://zhuanlan.zhihu.com/p/83621630  
  
-## 快速访问：
+## Quick start：
 
 markdown教程 http://xianbai.me/learn-md/index.html  
 sublime转化为高效c/cpp编译器 https://xuanwo.io/2014/06/05/sublime-text-3-ide/
 
 
-## 稍后再读
+## Read Later
 
 Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks https://dl.acm.org/doi/pdf/10.5555/3305381.3305498?download=true  
 Meta Networks https://arxiv.org/pdf/1703.00837.pdf   
