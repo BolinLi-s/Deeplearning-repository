@@ -11,3 +11,5 @@
 
 ## 机器学习
 AutoEncoder https://www.cnblogs.com/huangyc/p/9824202.html   
+
+GAN综述 https://www.jiqizhixin.com/articles/2019-03-19-12  
