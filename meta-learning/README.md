@@ -21,6 +21,7 @@
 |MUNIT |https://arxiv.org/abs/1804.04732 ||
 |FUNIT|  https://arxiv.org/abs/1905.01723  |https://github.com/NVlabs/FUNIT|
 |RelGAN|https://arxiv.org/pdf/1908.07269.pdf|https://github.com/elvisyjlin/RelGAN-PyTorch|
+|Multiclass Sketch-to-Image Translation|https://arxiv.org/pdf/1909.11081.pdf|https://github.com/arnabgho/iSketchNFill|
 
 ### Combination of Meta-Learning and I2I Translation
 | 论文名称|论文地址|项目地址|
