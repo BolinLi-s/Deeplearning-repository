@@ -32,6 +32,11 @@ Im2Pencil https://arxiv.org/pdf/1903.08682.pdf
 Instance Normalization:The Missing Ingredient for Fast Stylization https://arxiv.org/pdf/1607.08022.pdf  
 Self-Supervised Learning of Pretext-Invariant Representations https://arxiv.org/abs/1912.01991
 Momentum Contrast for Unsupervised Visual Representation Learning https://arxiv.org/abs/1911.05722
+
+## Some Videos
+CVPR2019 https://www.bilibili.com/video/av56644587?p=2  
+ICCV2019 https://www.bilibili.com/video/av76790418?p=2   
+
 ## I reflect myself three times a day
 
 MAML和Meta Network到底是啥结构？
