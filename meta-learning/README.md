@@ -12,7 +12,7 @@
 |pix2pixHD|https://arxiv.org/abs/1711.11585|https://github.com/NVIDIA/pix2pixHD|
 |DiscoGAN |https://arxiv.org/abs/1703.05192  ||
 |DRAGAN |https://arxiv.org/abs/1705.07215  ||
-|UNIT  |https://arxiv.org/abs/1703.00848  ||
+|UNIT  |https://arxiv.org/abs/1703.00848  |https://github.com/mingyuliutw/UNIT|
 |DualGAN |https://arxiv.org/abs/1704.02510 ||
 |StarGAN|https://arxiv.org/abs/1711.09020|https://github.com/yunjey/stargan|
 |BicycleGAN|https://arxiv.org/abs/1711.11586|https://github.com/junyanz/BicycleGAN|
