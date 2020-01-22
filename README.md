@@ -36,6 +36,8 @@ Self-Supervised Learning of Pretext-Invariant Representations https://arxiv.org/
 Momentum Contrast for Unsupervised Visual Representation Learning https://arxiv.org/abs/1911.05722
 
 ### about attribute editing
+Deep Identity-aware Transfer of Facial Attributes https://arxiv.org/abs/1610.05586   
+Learning Residual Images for Face Attribute Manipulation https://arxiv.org/abs/1612.05363   
 
 ## Some Videos
 CVPR2019 https://www.bilibili.com/video/av56644587?p=2  
