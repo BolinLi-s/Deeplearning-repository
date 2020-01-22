@@ -16,6 +16,7 @@ MM 4月截稿，10月开会
 
 ## Read Later
 
+### about meta-learning
 MAML https://dl.acm.org/doi/pdf/10.5555/3305381.3305498?download=true  
 Meta Networks https://arxiv.org/pdf/1703.00837.pdf     
 On First-Order Meta-Learning Algorithms https://arxiv.org/pdf/1803.02999.pdf       
@@ -28,10 +29,13 @@ Low-Shot Learning from Imaginary Data https://arxiv.org/pdf/1801.05401.pdf
 Scribbler: Controlling Deep Image Synthesis with Sketch and Color https://arxiv.org/abs/1612.00835  
 Smart, Sparse Contours to Represent and Edit Images https://arxiv.org/abs/1712.08232  
  
+### about i2i translation
 Im2Pencil https://arxiv.org/pdf/1903.08682.pdf  
 Instance Normalization:The Missing Ingredient for Fast Stylization https://arxiv.org/pdf/1607.08022.pdf  
 Self-Supervised Learning of Pretext-Invariant Representations https://arxiv.org/abs/1912.01991
 Momentum Contrast for Unsupervised Visual Representation Learning https://arxiv.org/abs/1911.05722
+
+### about attribute editing
 
 ## Some Videos
 CVPR2019 https://www.bilibili.com/video/av56644587?p=2  
