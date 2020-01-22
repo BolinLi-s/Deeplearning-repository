@@ -31,9 +31,9 @@ Smart, Sparse Contours to Represent and Edit Images https://arxiv.org/abs/1712.0
  
 ### about i2i translation
 Im2Pencil https://arxiv.org/pdf/1903.08682.pdf  
-Instance Normalization:The Missing Ingredient for Fast Stylization https://arxiv.org/pdf/1607.08022.pdf  
-Self-Supervised Learning of Pretext-Invariant Representations https://arxiv.org/abs/1912.01991
-Momentum Contrast for Unsupervised Visual Representation Learning https://arxiv.org/abs/1911.05722
+Instance Normalization:The Missing Ingredient for Fast Stylization https://arxiv.org/pdf/1607.08022.pdf   
+Self-Supervised Learning of Pretext-Invariant Representations https://arxiv.org/abs/1912.01991  
+Momentum Contrast for Unsupervised Visual Representation Learning https://arxiv.org/abs/1911.05722  
 
 ### about attribute editing
 Deep Identity-aware Transfer of Facial Attributes https://arxiv.org/abs/1610.05586   
