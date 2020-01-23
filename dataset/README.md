@@ -7,3 +7,5 @@ WHOI-Plankton海洋微生物数据集 https://darchive.mblwhoilibrary.org/handle
 机器之心 https://www.jiqizhixin.com/articles/2018-09-05-2  
 
 高颜值人脸生成 http://www.seeprettyface.com/research_notes.html  
+
+跨象乘云 https://www.080910t.com/tag/%E6%95%B0%E6%8D%AE%E9%9B%86/  
