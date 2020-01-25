@@ -36,6 +36,7 @@
 |Conditional GAN  |https://arxiv.org/abs/1411.1784||
 |DCGAN |https://arxiv.org/abs/1511.06434|| 
 |SoftmaxGAN|https://arxiv.org/abs/1704.06191||
+|LSGAN|https://www.jiqizhixin.com/articles/2018-10-15-24||
 |SRGAN|https://arxiv.org/abs/1609.04802|https://github.com/leftthomas/SRGAN|
 |InfoGAN|https://arxiv.org/abs/1606.03657|
 |wgan|https://arxiv.org/abs/1701.07875||
