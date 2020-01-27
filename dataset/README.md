@@ -15,3 +15,7 @@ G-Lab http://www.seeprettyface.com/research_notes.html
 和鲸 https://www.kesci.com/home/dataset  
 
 datasetlist https://www.datasetlist.com/  
+
+kaggle https://www.kaggle.com/datasets  
+
+极市平台 http://bbs.cvmart.net/c/data_set  
