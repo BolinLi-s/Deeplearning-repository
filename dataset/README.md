@@ -19,3 +19,5 @@ datasetlist https://www.datasetlist.com/
 kaggle https://www.kaggle.com/datasets  
 
 极市平台 http://bbs.cvmart.net/c/data_set  
+
+基于stylegan的动漫头像 https://www.gwern.net/Danbooru2019#danbooru2018  
