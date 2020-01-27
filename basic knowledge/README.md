@@ -35,4 +35,6 @@ pytorch官方教程资源 https://www.pytorchtutorial.com/pytorch-networks/#GAN
 
 目标检测项目 https://redstonewill.com/1934/  
 
+关于WGAN http://kaizhao.net/blog/posts/spectral-norm/  
+
 Study.ai http://www.studyai.com/course/index/  
