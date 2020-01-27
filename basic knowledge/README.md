@@ -38,3 +38,5 @@ pytorch官方教程资源 https://www.pytorchtutorial.com/pytorch-networks/#GAN
 关于WGAN http://kaizhao.net/blog/posts/spectral-norm/  
 
 Study.ai http://www.studyai.com/course/index/  
+
+六种评价指标 https://www.jiqizhixin.com/articles/2018-07-02-3  
