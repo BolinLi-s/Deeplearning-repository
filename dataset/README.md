@@ -11,3 +11,5 @@ G-Lab http://www.seeprettyface.com/research_notes.html
 跨象乘云 https://www.080910t.com/tag/%E6%95%B0%E6%8D%AE%E9%9B%86/  
 
 百度大脑 https://aistudio.baidu.com/aistudio/datasetlist/2  
+
+和鲸 https://www.kesci.com/home/dataset  
