@@ -3,6 +3,8 @@
 paper and code： https://paperswithcode.com/  
 
 modelzoo： https://modelzoo.co/  
+
+SOTA： https://www.stateoftheart.ai/  
 ## Deadline 
 
 AAAI 9月截稿，2月开会  
