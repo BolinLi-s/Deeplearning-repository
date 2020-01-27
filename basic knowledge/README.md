@@ -33,5 +33,3 @@ GAN综述 https://www.jiqizhixin.com/articles/2019-03-19-12
 pytorch官方教程资源 https://www.pytorchtutorial.com/pytorch-networks/#GAN   
 
 目标检测项目 https://redstonewill.com/1934/  
-
-pytorch官方教程资源 https://www.pytorchtutorial.com/pytorch-networks/#GAN    
