@@ -49,5 +49,4 @@ ICCV2019 https://www.bilibili.com/video/av76790418?p=2
 
 ## I reflect myself three times a day
 
-MAML和Meta Network到底是啥结构？
-啥是spectrum Normalization和AdaIn
+
