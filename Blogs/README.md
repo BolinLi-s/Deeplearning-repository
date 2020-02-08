@@ -40,3 +40,5 @@ pytorch官方教程资源 https://www.pytorchtutorial.com/pytorch-networks/#GAN
 Study.ai http://www.studyai.com/course/index/  
 
 六种评价指标 https://www.jiqizhixin.com/articles/2018-07-02-3  
+
+如何理解K-L散度（相对熵） https://www.jianshu.com/p/43318a3dc715  
