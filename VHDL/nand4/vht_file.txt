@@ -17,9 +17,9 @@
 -- suit user's needs .Comments are provided in each section to help the user  
 -- fill out necessary details.                                                
 -- ***************************************************************************
--- Generated on "10/28/2020 20:40:39"
+-- Generated on "10/25/2020 16:39:23"
                                                             
--- Vhdl Test Bench template for design  :  decoder
+-- Vhdl Test Bench template for design  :  lbl
 -- 
 -- Simulation tool : ModelSim-Altera (VHDL)
 -- 
@@ -27,79 +27,80 @@
 LIBRARY ieee;                                               
 USE ieee.std_logic_1164.all;                                
 
-ENTITY decoder_vhd_tst IS
-END decoder_vhd_tst;
-ARCHITECTURE decoder_arch OF decoder_vhd_tst IS
--- constants                                                
+ENTITY lbl_vhd_tst IS
+END lbl_vhd_tst;
+ARCHITECTURE lbl_arch OF lbl_vhd_tst IS
+-- constants 
+constant t:time:=10ns;                                                
 -- signals                                                   
 SIGNAL a : STD_LOGIC;
 SIGNAL b : STD_LOGIC;
-SIGNAL bi : STD_LOGIC_VECTOR(3 DOWNTO 0);
-SIGNAL bl_n : STD_LOGIC;
 SIGNAL c : STD_LOGIC;
 SIGNAL d : STD_LOGIC;
-SIGNAL e : STD_LOGIC;
-SIGNAL f : STD_LOGIC;
-SIGNAL g : STD_LOGIC;
-COMPONENT decoder
+SIGNAL output : STD_LOGIC;
+signal clk: std_logic;
+signal clr: std_logic;
+COMPONENT lbl
 	PORT (
-	a : OUT STD_LOGIC;
-	b : OUT STD_LOGIC;
-	bi : IN STD_LOGIC_VECTOR(3 DOWNTO 0);
-	bl_n : IN STD_LOGIC;
-	c : OUT STD_LOGIC;
-	d : OUT STD_LOGIC;
-	e : OUT STD_LOGIC;
-	f : OUT STD_LOGIC;
-	g : OUT STD_LOGIC
+	a : IN STD_LOGIC;
+	b : IN STD_LOGIC;
+	c : IN STD_LOGIC;
+	d : IN STD_LOGIC;
+	output : BUFFER STD_LOGIC
 	);
 END COMPONENT;
 BEGIN
-	i1 : decoder
+	i1 : lbl
 	PORT MAP (
 -- list connections between master ports and signals
 	a => a,
 	b => b,
-	bi => bi,
-	bl_n => bl_n,
 	c => c,
 	d => d,
-	e => e,
-	f => f,
-	g => g
+	output => output
 	);
 init : PROCESS                                               
 -- variable declarations                                     
-BEGIN                                                        
-        -- code that executes only once                      
-WAIT for 10ns;                                                    
+BEGIN
+clk <='0'; wait for t;
+clk <='1'; wait for t;                                                        
+
+                                                    
 END PROCESS init;                                           
 always : PROCESS                                              
 -- optional sensitivity list                                  
 -- (        )                                                 
 -- variable declarations                                      
-BEGIN                                                         
-        -- code executes for every event on sensitivity list
-bi <= "0000";
-wait for 10ns;
-bi <= "0001";
-wait for 10ns;
-bi <= "0010";
-wait for 10ns;
-bi <= "0011";
-wait for 10ns;
-bi <= "0100";
-wait for 10ns;
-bi <= "0101";
-wait for 10ns;
-bi <= "0110";
-wait for 10ns;
-bi <= "0111";
-wait for 10ns;
-bi <= "1000";
-wait for 10ns;
-bi <= "1001";
-wait for 10ns;
-                                                 
+BEGIN  
+a <= '1'; 
+b <= '1';  
+c <= '1';  
+d <= '1';  
+wait for t;
+
+a <= '0'; 
+b <= '1';  
+c <= '1';  
+d <= '1';  
+wait for t;
+
+a <= '1'; 
+b <= '0';  
+c <= '1';  
+d <= '1';  
+wait for t;
+
+a <= '1'; 
+b <= '1';  
+c <= '0';  
+d <= '1';  
+wait for t;
+
+a <= '1'; 
+b <= '1';  
+c <= '1';  
+d <= '0';  
+wait for t;
+                                                        
 END PROCESS always;                                          
-END decoder_arch;
+END lbl_arch;

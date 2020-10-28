@@ -1,0 +1,46 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.std_logic_arith.all;
+use ieee.std_logic_unsigned.all;
+
+entity decoder is
+port(bl_n: in std_logic;
+		bi: in std_logic_vector(3 downto 0);
+		a,b,c,d,e,f,g : out std_logic;
+		d1:out std_logic);
+end decoder;
+
+architecture display of decoder is
+	signal s:std_logic_vector(6 downto 0);
+begin
+	d1<='1';
+	process(bi, bl_n)
+	begin
+		if bl_n = '0' then
+			s<=(others =>'0');
+		else
+			case bi is
+				when "0000" => s <= B"011_1111";
+				when "0001" => s <= B"000_0110";
+				when "0010" => s <= B"101_1011";
+				when "0011" => s <= B"100_1111";
+				when "0100" => s <= B"110_0110";
+				when "0101" => s <= B"110_1101";
+				when "0110" => s <= B"111_1101";
+				when "0111" => s <= B"010_0111";
+				when "1000" => s <= B"111_1111";
+				when "1001" => s <= B"110_1111";
+				when others => s <= (others => '0');
+			end case;
+		end if;
+	end process;
+	a <= s(0);
+	b <= s(1);
+	c <= s(2);
+	d <= s(3);
+	e <= s(4);
+	f <= s(5);
+	g <= s(6);
+end display;
+				
+

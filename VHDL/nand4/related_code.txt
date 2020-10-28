@@ -1,0 +1,13 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity lbl is
+port(a,b,c,d:in std_logic;
+		output:out std_logic);
+end lbl;
+
+architecture nand4 of lbl is
+begin
+output <= not(a and b and c and d);
+end nand4;
+
