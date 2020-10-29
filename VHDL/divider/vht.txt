@@ -1,0 +1,70 @@
+-- Copyright (C) 2018  Intel Corporation. All rights reserved.
+-- Your use of Intel Corporation's design tools, logic functions 
+-- and other software and tools, and its AMPP partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Intel Program License 
+-- Subscription Agreement, the Intel Quartus Prime License Agreement,
+-- the Intel FPGA IP License Agreement, or other applicable license
+-- agreement, including, without limitation, that your use is for
+-- the sole purpose of programming logic devices manufactured by
+-- Intel and sold by Intel or its authorized distributors.  Please
+-- refer to the applicable agreement for further details.
+
+-- ***************************************************************************
+-- This file contains a Vhdl test bench template that is freely editable to   
+-- suit user's needs .Comments are provided in each section to help the user  
+-- fill out necessary details.                                                
+-- ***************************************************************************
+-- Generated on "10/29/2020 19:16:18"
+                                                            
+-- Vhdl Test Bench template for design  :  divider
+-- 
+-- Simulation tool : ModelSim-Altera (VHDL)
+-- 
+
+LIBRARY ieee;                                               
+USE ieee.std_logic_1164.all;                                
+
+ENTITY divider_vhd_tst IS
+END divider_vhd_tst;
+ARCHITECTURE divider_arch OF divider_vhd_tst IS
+-- constants                                                 
+-- signals                                                   
+SIGNAL clkin : STD_LOGIC;
+SIGNAL clkout1 : STD_LOGIC;
+SIGNAL clkout2 : STD_LOGIC;
+COMPONENT divider
+	PORT (
+	clkin : IN STD_LOGIC;
+	clkout1 : OUT STD_LOGIC;
+	clkout2 : OUT STD_LOGIC
+	);
+END COMPONENT;
+BEGIN
+	i1 : divider
+	PORT MAP (
+-- list connections between master ports and signals
+	clkin => clkin,
+	clkout1 => clkout1,
+	clkout2 => clkout2
+	);
+init : PROCESS                                               
+-- variable declarations                                     
+BEGIN                                                        
+clkin <= '1'; wait for 20ns;
+clkin <= '0'; wait for 20ns;                                                                           
+END PROCESS init;
+
+                                           
+always : PROCESS                                              
+-- optional sensitivity list                                  
+-- (        )                                                 
+-- variable declarations                                      
+BEGIN                   
+                                      
+wait for 10 ns;
+                                                     
+END PROCESS always;                                          
+END divider_arch;
