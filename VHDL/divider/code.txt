@@ -28,7 +28,7 @@ BEGIN
 	PROCESS(clkin)
 	BEGIN
 		IF(clkin'EVENT AND clkin='1')THEN
-			IF(counter2=499)THEN        
+			IF(counter2=4999)THEN        
 				counter2<=0;
 				temp2<=NOT temp2;
 			ELSE
