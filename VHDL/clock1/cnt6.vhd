@@ -35,7 +35,7 @@ begin
 			cnt<="0000";
 			tmp<='0';
 		
-		elsif(clk'event and clk='1' and model=1 and key2_trigger='1')then
+		elsif(clk'event and clk='1' and model=1)then
 			if(cnt="0101")then
 				cnt<="0000";
 				tmp<='0';
