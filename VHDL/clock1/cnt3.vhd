@@ -31,7 +31,6 @@ begin
 	
 	
 	
-	
 	process(clk,clr)
 	begin
 		if( clr='0') then
