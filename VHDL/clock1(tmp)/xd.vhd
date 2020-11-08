@@ -17,7 +17,7 @@ BEGIN
 			IF COUNT < 10	 THEN COUNT := COUNT + 1;
 			ELSE COUNT := COUNT;  
 			END IF;
-			IF COUNT = 9	THEN KEY_OUT <= '1';
+			IF COUNT = 9	THEN KEY_OUT <= '1';	
 			ELSE KEY_OUT <= '0';	
 			END IF;
 		ELSE COUNT := 0;	
