@@ -1,10 +1,20 @@
 import math
 import numpy as np
-
-def ddd(x):
-    return -x*math.log(x,2)
-
-a = ddd(0.64) + 2*ddd(0.16) + ddd(0.04)
-b = ddd(0.8) + ddd(0.2)
-b = ddd(8/3)
-print(b)
+res = []
+with open('毛概2020春题库整合（有重复）.txt','r',encoding='utf-8') as f:
+    tmp= ''
+    count = 0
+    for i in f:
+        count+=1
+        print(count, i)
+        if i == '\n':
+            res.append(tmp)
+            tmp=''
+        tmp+=str(i)
+res = set(res)
+with open('res.txt','w',encoding='utf-8') as w:
+    count = 0
+    for i in res:
+        count +=1
+        print(count)
+        w.write(i)
